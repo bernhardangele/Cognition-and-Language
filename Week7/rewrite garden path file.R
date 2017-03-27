@@ -33,6 +33,8 @@ split_words <- function(df){
   
   words[words$position != "Question",]$correctResponse <- "No" 
   
+  words[words$position != "Question",]$word <- paste(words[words$position != "Question",]$word, "\n Left = Yes, Right = No")
+  
   cat(nrow(words)-1,"\n")
   
   words
