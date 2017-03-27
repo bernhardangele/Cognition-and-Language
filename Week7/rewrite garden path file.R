@@ -43,6 +43,8 @@ all_words$comma <- with(all_words, ifelse(comma == 1, "no_comma", "comma"))
 
 all_words$keyCode <- with(all_words, ifelse(position == "Question", ifelse(correctResponse == "Yes", "ArrowLeft", "ArrowRight"), "Space"))
 
+all_words$keyIndex <- with(all_words, ifelse(position == "Question", ifelse(correctResponse == "Yes", 0, 2), 1))
+
 all_words <- add_column(all_words, .before = 3, stimulusValueType = rep("text", nrow(all_words)))
 
 all_words <- add_column(all_words, .after = 3, stimulusType = with(all_words, paste(position, type, comma, question_type, sep = "-")))
