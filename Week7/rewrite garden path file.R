@@ -41,7 +41,7 @@ all_words <- ddply(.data = sent, .variables = .(trialnr), .fun = split_words)
 
 all_words$comma <- with(all_words, ifelse(comma == 1, "no_comma", "comma"))
 
-all_words$keyCode <- with(all_words, ifelse(position == "Question", ifelse(correctResponse == "Yes", "ArrowLeft", "ArrowRight"), "ArrowRight"))
+all_words$keyCode <- with(all_words, ifelse(position == "Question", ifelse(correctResponse == "Yes", "ArrowLeft", "ArrowRight"), "Space"))
 
 all_words <- add_column(all_words, .before = 3, stimulusValueType = rep("text", nrow(all_words)))
 
