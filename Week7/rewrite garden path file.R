@@ -4,7 +4,7 @@ library(plyr)
 library(readr)
 library(tibble)
 
-sent <- read_delim("CaL Garden Path sentences and Fillers_no_commas.txt", "\t")
+sent <- read_delim("CaL Garden Path sentences and Fillers.txt", "\t")
 
 set.seed("27032017")
 
@@ -53,6 +53,6 @@ all_words <- subset(all_words, select = -c(trialnr, position, type, comma, quest
 
 all_words$response <- all_words$correctResponse
 
-write_csv(all_words, "garden_path_words.txt")
+write_csv(all_words, "garden_path_words.csv")
 
 #write_delim(all_words, "garden_path_words.txt", delim = "\t")

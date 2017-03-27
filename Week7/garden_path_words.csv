@@ -41,7 +41,7 @@ Did the student hoist a grill?,text,Question-GP-no_comma-factual,No,ArrowRight,N
 After,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 the,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 manager,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
-interrupted,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
+"interrupted,",text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 the,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 engineer,text,ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 wailed,text,disambiguation-GP-comma-factual,Continue,ArrowRight,Continue
@@ -56,7 +56,7 @@ While,text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
 the,text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
 truck,text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
 drove,text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
-past,text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
+"past,",text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
 Fred,text,ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
 stared,text,disambiguation-GP-comma-good_enough,Continue,ArrowRight,Continue
 at,text,post_disambiguation-GP-comma-good_enough,Continue,ArrowRight,Continue
@@ -82,7 +82,7 @@ Was the reporter writing to the CEO?,text,Question-GP-no_comma-good_enough,No,Ar
 While,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 the,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 physicist,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
-taught,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
+"taught,",text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 Kirk,text,ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 squinted,text,disambiguation-GP-comma-factual,Continue,ArrowRight,Continue
 at,text,post_disambiguation-GP-comma-factual,Continue,ArrowRight,Continue
@@ -95,7 +95,7 @@ Was the physicist teaching?,text,Question-GP-comma-factual,Yes,ArrowLeft,Yes
 After,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 the,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 customer,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
-paid,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
+"paid,",text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 the,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 cashier,text,ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 intimated,text,disambiguation-GP-comma-factual,Continue,ArrowRight,Continue
@@ -108,7 +108,7 @@ Was  the store cheap?,text,Question-GP-comma-factual,No,ArrowRight,No
 When,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 the,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 fighting,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
-finished,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
+"finished,",text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 the,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 rebels,text,ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 waylaid,text,disambiguation-GP-comma-factual,Continue,ArrowRight,Continue
@@ -149,7 +149,7 @@ Did the girl paint her nails?,text,Question-GP-no_comma-factual,No,ArrowRight,No
 After,text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
 the,text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
 roommate,text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
-prepared,text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
+"prepared,",text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
 Kevin,text,ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
 rapped,text,disambiguation-GP-comma-good_enough,Continue,ArrowRight,Continue
 his,text,post_disambiguation-GP-comma-good_enough,Continue,ArrowRight,Continue
@@ -161,7 +161,7 @@ knife.,text,post_disambiguation-GP-comma-good_enough,Continue,ArrowRight,Continu
 Was the roommate preparing himself?,text,Question-GP-comma-good_enough,Yes,ArrowLeft,Yes
 While,text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
 Ruby,text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
-drove,text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
+"drove,",text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
 Clay,text,ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
 scoured,text,disambiguation-GP-comma-good_enough,Continue,ArrowRight,Continue
 the,text,post_disambiguation-GP-comma-good_enough,Continue,ArrowRight,Continue
@@ -185,10 +185,10 @@ other.,text,post_disambiguation-GP-no_comma-good_enough,Continue,ArrowRight,Cont
 Did the teacher lecture the students?,text,Question-GP-no_comma-good_enough,No,ArrowRight,No
 At,text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
 the,text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
-dinner,text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
+"dinner,",text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
 while,text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
 Alex,text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
-served,text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
+"served,",text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
 his,text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
 guest,text,ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
 disclosed,text,disambiguation-GP-comma-good_enough,Continue,ArrowRight,Continue
@@ -200,7 +200,7 @@ Did the guest announce something?,text,Question-GP-comma-good_enough,No,ArrowRig
 While,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 the,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 woman,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
-raced,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
+"raced,",text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 Kari,text,ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 strode,text,disambiguation-GP-comma-factual,Continue,ArrowRight,Continue
 ahead,text,post_disambiguation-GP-comma-factual,Continue,ArrowRight,Continue
@@ -214,7 +214,7 @@ track.,text,post_disambiguation-GP-comma-factual,Continue,ArrowRight,Continue
 Was Kari ahead in the last lap?,text,Question-GP-comma-factual,Yes,ArrowLeft,Yes
 After,text,pre_ambiguity-GP-no_comma-good_enough,Continue,ArrowRight,Continue
 the,text,pre_ambiguity-GP-no_comma-good_enough,Continue,ArrowRight,Continue
-dance,text,pre_ambiguity-GP-no_comma-good_enough,Continue,ArrowRight,Continue
+"dance,",text,pre_ambiguity-GP-no_comma-good_enough,Continue,ArrowRight,Continue
 when,text,pre_ambiguity-GP-no_comma-good_enough,Continue,ArrowRight,Continue
 Renee,text,pre_ambiguity-GP-no_comma-good_enough,Continue,ArrowRight,Continue
 leaned,text,pre_ambiguity-GP-no_comma-good_enough,Continue,ArrowRight,Continue
@@ -231,7 +231,7 @@ When,text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
 the,text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
 bank,text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
 employee,text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
-called,text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
+"called,",text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
 the,text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
 officer,text,ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
 pacified,text,disambiguation-GP-comma-good_enough,Continue,ArrowRight,Continue
@@ -242,7 +242,7 @@ Was the officer called by the bank employee?,text,Question-GP-comma-good_enough,
 While,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 the,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 child,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
-observed,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
+"observed,",text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 the,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 artist,text,ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 smeared,text,disambiguation-GP-comma-factual,Continue,ArrowRight,Continue
@@ -266,7 +266,7 @@ had.,text,post_disambiguation-GP-no_comma-good_enough,Continue,ArrowRight,Contin
 Was Robert filming Paul?,text,Question-GP-no_comma-good_enough,No,ArrowRight,No
 When,text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
 Lisa,text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
-probed,text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
+"probed,",text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
 Mark,text,ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
 contended,text,disambiguation-GP-comma-good_enough,Continue,ArrowRight,Continue
 that,text,post_disambiguation-GP-comma-good_enough,Continue,ArrowRight,Continue
@@ -316,7 +316,7 @@ floor.,text,post_disambiguation-GP-no_comma-good_enough,Continue,ArrowRight,Cont
 Did the nurse bathe herself?,text,Question-GP-no_comma-good_enough,Yes,ArrowLeft,Yes
 While,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 Milo,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
-pushed,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
+"pushed,",text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 the,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 decorator,text,ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 argued,text,disambiguation-GP-comma-factual,Continue,ArrowRight,Continue
@@ -332,7 +332,7 @@ Was the decorator pushed?,text,Question-GP-comma-factual,No,ArrowRight,No
 After,text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
 her,text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
 boyfriend,text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
-left,text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
+"left,",text,pre_ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
 Jane,text,ambiguity-GP-comma-good_enough,Continue,ArrowRight,Continue
 yelled,text,disambiguation-GP-comma-good_enough,Continue,ArrowRight,Continue
 swear,text,post_disambiguation-GP-comma-good_enough,Continue,ArrowRight,Continue
@@ -365,7 +365,7 @@ store.,text,post_disambiguation-GP-no_comma-factual,Continue,ArrowRight,Continue
 Was Dale rushing?,text,Question-GP-no_comma-factual,Yes,ArrowLeft,Yes
 When,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 Teri,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
-stopped,text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
+"stopped,",text,pre_ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 Harry,text,ambiguity-GP-comma-factual,Continue,ArrowRight,Continue
 donated,text,disambiguation-GP-comma-factual,Continue,ArrowRight,Continue
 a,text,post_disambiguation-GP-comma-factual,Continue,ArrowRight,Continue
