@@ -1,807 +1,420 @@
 stimulusValue;stimulusValueType;stimulusType;correctResponse;keyCode;keyLabel;keyLabelType;keyIndex;response
-"As 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"crowd 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"applauded 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"actress 
- Left = Yes, Right = No";text;ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"twirled 
- Left = Yes, Right = No";text;disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"her 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"hair 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"around 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"her 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"finger. 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
+As;text;pre_ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;pre_ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+crowd;text;pre_ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+applauded;text;pre_ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;pre_ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+actress;text;ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+twirled;text;disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+her;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+hair;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+around;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+her;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+finger.;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
 Did the actress play with her hair?;text;Question-GP-no_comma-factual;Yes;ArrowLeft;Yes;text;0;Yes
-"While 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"penguins 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"raced 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"zookeeper 
- Left = Yes, Right = No";text;ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"tidied 
- Left = Yes, Right = No";text;disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"up 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"messy 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"enclosure. 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-Did the penguins race the zookeeper?;text;Question-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"Once 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"security 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"guard 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"checked 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"student 
- Left = Yes, Right = No";text;ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"hoisted 
- Left = Yes, Right = No";text;disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"cooler 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"on 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"his 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"back. 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-Did the student hoist a grill?;text;Question-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"After 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"manager 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"interrupted, 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"engineer 
- Left = Yes, Right = No";text;ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"wailed 
- Left = Yes, Right = No";text;disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"that 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"he 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"never 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"had 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"enough 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"time. 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
+While;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+the;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+penguins;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+raced;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+the;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+zookeeper;text;ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+tidied;text;disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+up;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+the;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+messy;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+enclosure.;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+Did the penguins race the zookeeper?;text;Question-GP-no_comma-good_enough;No;ArrowRight;No;text;2;No
+Once;text;pre_ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;pre_ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+security;text;pre_ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+guard;text;pre_ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+checked;text;pre_ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;pre_ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+student;text;ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+hoisted;text;disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+cooler;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+on;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+his;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+back.;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+Did the student hoist a grill?;text;Question-GP-no_comma-factual;No;ArrowRight;No;text;2;No
+After;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+manager;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+interrupted,;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+engineer;text;ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+wailed;text;disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+that;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+he;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+never;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+had;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+enough;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+time.;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
 Did the manager interrupt?;text;Question-GP-comma-factual;Yes;ArrowLeft;Yes;text;0;Yes
-"While 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"truck 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"drove 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"past, 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"Fred 
- Left = Yes, Right = No";text;ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"stared 
- Left = Yes, Right = No";text;disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"at 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"coach's 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"car. 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-Was Fred passed by the truck?;text;Question-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"While 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"reporter 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"wrote 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"CEO 
- Left = Yes, Right = No";text;ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"proffered 
- Left = Yes, Right = No";text;disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"a 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"new 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"product 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"for 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"him 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"to 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"review. 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-Was the reporter writing to the CEO?;text;Question-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"While 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"physicist 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"taught, 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"Kirk 
- Left = Yes, Right = No";text;ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"squinted 
- Left = Yes, Right = No";text;disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"at 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"equations 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"on 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"blackboard. 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
+While;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+the;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+truck;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+drove;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+past,;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+Fred;text;ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+stared;text;disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+at;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+the;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+coach's;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+car.;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+Was Fred passed by the truck?;text;Question-GP-comma-good_enough;No;ArrowRight;No;text;2;No
+While;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+the;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+reporter;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+wrote;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+the;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+CEO;text;ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+proffered;text;disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+a;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+new;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+product;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+for;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+him;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+to;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+review.;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+Was the reporter writing to the CEO?;text;Question-GP-no_comma-good_enough;No;ArrowRight;No;text;2;No
+While;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+physicist;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+taught,;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+Kirk;text;ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+squinted;text;disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+at;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+equations;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+on;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+blackboard.;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
 Was the physicist teaching?;text;Question-GP-comma-factual;Yes;ArrowLeft;Yes;text;0;Yes
-"After 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"customer 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"paid, 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"cashier 
- Left = Yes, Right = No";text;ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"intimated 
- Left = Yes, Right = No";text;disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"that 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"store 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"was 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"overpriced. 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-Was  the store cheap?;text;Question-GP-comma-factual;No;ArrowRight;No;text;1;No
-"When 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"fighting 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"finished, 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"rebels 
- Left = Yes, Right = No";text;ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"waylaid 
- Left = Yes, Right = No";text;disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"travellers 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"on 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"dusty 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"road. 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-Were the rebels waylaid?;text;Question-GP-comma-factual;No;ArrowRight;No;text;1;No
-"Once 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"nurse 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"rang 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"doctor 
- Left = Yes, Right = No";text;ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"ambled 
- Left = Yes, Right = No";text;disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"over 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"to 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"operating 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"room. 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
+After;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+customer;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+paid,;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+cashier;text;ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+intimated;text;disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+that;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+store;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+was;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+overpriced.;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+Was  the store cheap?;text;Question-GP-comma-factual;No;ArrowRight;No;text;2;No
+When;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+fighting;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+finished,;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+rebels;text;ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+waylaid;text;disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+travellers;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+on;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+dusty;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+road.;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+Were the rebels waylaid?;text;Question-GP-comma-factual;No;ArrowRight;No;text;2;No
+Once;text;pre_ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;pre_ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+nurse;text;pre_ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+rang;text;pre_ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;pre_ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+doctor;text;ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+ambled;text;disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+over;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+to;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+operating;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+room.;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
 Did the doctor amble?;text;Question-GP-no_comma-factual;Yes;ArrowLeft;Yes;text;0;Yes
-"Before 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"boy 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"visited 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"girl 
- Left = Yes, Right = No";text;ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"tweezed 
- Left = Yes, Right = No";text;disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"her 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"eyebrows 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"and 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"put 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"on 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"make-up. 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-Did the girl paint her nails?;text;Question-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"After 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"roommate 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"prepared, 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"Kevin 
- Left = Yes, Right = No";text;ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"rapped 
- Left = Yes, Right = No";text;disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"his 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"wine 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"glass 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"with 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"his 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"knife. 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
+Before;text;pre_ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;pre_ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+boy;text;pre_ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+visited;text;pre_ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;pre_ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+girl;text;ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+tweezed;text;disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+her;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+eyebrows;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+and;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+put;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+on;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+make-up.;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+Did the girl paint her nails?;text;Question-GP-no_comma-factual;No;ArrowRight;No;text;2;No
+After;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+the;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+roommate;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+prepared,;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+Kevin;text;ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+rapped;text;disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+his;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+wine;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+glass;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+with;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+his;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+knife.;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
 Was the roommate preparing himself?;text;Question-GP-comma-good_enough;Yes;ArrowLeft;Yes;text;0;Yes
-"While 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"Ruby 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"drove, 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"Clay 
- Left = Yes, Right = No";text;ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"scoured 
- Left = Yes, Right = No";text;disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"passing 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"landscape 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"for 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"a 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"McDonald's. 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-Was Clay driven by Ruby?;text;Question-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"When 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"teacher 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"lectured 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"students 
- Left = Yes, Right = No";text;ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"entrusted 
- Left = Yes, Right = No";text;disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"notes 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"to 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"each 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"other. 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-Did the teacher lecture the students?;text;Question-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"At 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"dinner, 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"while 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"Alex 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"served, 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"his 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"guest 
- Left = Yes, Right = No";text;ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"disclosed 
- Left = Yes, Right = No";text;disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"that 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"she 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"was 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"pregnant. 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-Did the guest announce something?;text;Question-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"While 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"woman 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"raced, 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"Kari 
- Left = Yes, Right = No";text;ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"strode 
- Left = Yes, Right = No";text;disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"ahead 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"in 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"last 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"lap 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"around 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"track. 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
+While;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+Ruby;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+drove,;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+Clay;text;ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+scoured;text;disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+the;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+passing;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+landscape;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+for;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+a;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+McDonald's.;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+Was Clay driven by Ruby?;text;Question-GP-comma-good_enough;No;ArrowRight;No;text;2;No
+When;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+the;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+teacher;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+lectured;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+the;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+students;text;ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+entrusted;text;disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+notes;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+to;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+each;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+other.;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+Did the teacher lecture the students?;text;Question-GP-no_comma-good_enough;No;ArrowRight;No;text;2;No
+At;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+the;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+dinner,;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+while;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+Alex;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+served,;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+his;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+guest;text;ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+disclosed;text;disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+that;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+she;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+was;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+pregnant.;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+Did the guest announce something?;text;Question-GP-comma-good_enough;No;ArrowRight;No;text;2;No
+While;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+woman;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+raced,;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+Kari;text;ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+strode;text;disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+ahead;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+in;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+last;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+lap;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+around;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+track.;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
 Was Kari ahead in the last lap?;text;Question-GP-comma-factual;Yes;ArrowLeft;Yes;text;0;Yes
-"After 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"dance, 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"when 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"Renee 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"leaned 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"over 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"Allen 
- Left = Yes, Right = No";text;ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"butted 
- Left = Yes, Right = No";text;disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"in 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"line 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"for 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"bathroom. 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-Did Renee lean over Allen?;text;Question-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"When 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"bank 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"employee 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"called, 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"officer 
- Left = Yes, Right = No";text;ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"pacified 
- Left = Yes, Right = No";text;disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"crowd 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"outside. 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-Was the officer called by the bank employee?;text;Question-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"While 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"child 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"observed, 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"artist 
- Left = Yes, Right = No";text;ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"smeared 
- Left = Yes, Right = No";text;disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"paper 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"with 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"paint. 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
+After;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+the;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+dance,;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+when;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+Renee;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+leaned;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+over;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+Allen;text;ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+butted;text;disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+in;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+line;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+for;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+the;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+bathroom.;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+Did Renee lean over Allen?;text;Question-GP-no_comma-good_enough;No;ArrowRight;No;text;2;No
+When;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+the;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+bank;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+employee;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+called,;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+the;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+officer;text;ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+pacified;text;disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+the;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+crowd;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+outside.;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+Was the officer called by the bank employee?;text;Question-GP-comma-good_enough;No;ArrowRight;No;text;2;No
+While;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+child;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+observed,;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+artist;text;ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+smeared;text;disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+paper;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+with;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+paint.;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
 Was the child observing?;text;Question-GP-comma-factual;Yes;ArrowLeft;Yes;text;0;Yes
-"While 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"Robert 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"filmed 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"Paul 
- Left = Yes, Right = No";text;ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"chronicled 
- Left = Yes, Right = No";text;disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"how 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"much 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"footage 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"they 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"had 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"already 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"had. 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-Was Robert filming Paul?;text;Question-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"When 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"Lisa 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"probed, 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"Mark 
- Left = Yes, Right = No";text;ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"contended 
- Left = Yes, Right = No";text;disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"that 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"heat 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"affected 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"his 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"chemical 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"reaction. 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-Did Lisa probe Mark?;text;Question-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"While 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"Bert 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"wrote 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"Troy 
- Left = Yes, Right = No";text;ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"recounted 
- Left = Yes, Right = No";text;disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"his 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"trip 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"to 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"Italy 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"over 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"summer. 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
+While;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+Robert;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+filmed;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+Paul;text;ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+chronicled;text;disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+how;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+much;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+footage;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+they;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+had;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+already;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+had.;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+Was Robert filming Paul?;text;Question-GP-no_comma-good_enough;No;ArrowRight;No;text;2;No
+When;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+Lisa;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+probed,;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+Mark;text;ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+contended;text;disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+that;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+the;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+heat;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+affected;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+his;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+chemical;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+reaction.;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+Did Lisa probe Mark?;text;Question-GP-comma-good_enough;No;ArrowRight;No;text;2;No
+While;text;pre_ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+Bert;text;pre_ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+wrote;text;pre_ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+Troy;text;ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+recounted;text;disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+his;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+trip;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+to;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+Italy;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+over;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+summer.;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
 Was Bert writing to someone?;text;Question-GP-no_comma-factual;Yes;ArrowLeft;Yes;text;0;Yes
-"When 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"Curt 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"asked 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"Lacy 
- Left = Yes, Right = No";text;ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"budgeted 
- Left = Yes, Right = No";text;disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"extra 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"blankets 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"for 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"bed 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"on 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"porch. 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
+When;text;pre_ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+Curt;text;pre_ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+asked;text;pre_ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+Lacy;text;ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+budgeted;text;disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+extra;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+blankets;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+for;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+bed;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+on;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+porch.;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
 Was Lacy budgeting?;text;Question-GP-no_comma-factual;Yes;ArrowLeft;Yes;text;0;Yes
-"After 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"nurse 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"bathed 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"Julie 
- Left = Yes, Right = No";text;ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"mopped 
- Left = Yes, Right = No";text;disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"bathroom 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"floor. 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
+After;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+the;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+nurse;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+bathed;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+Julie;text;ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+mopped;text;disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+the;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+bathroom;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+floor.;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
 Did the nurse bathe herself?;text;Question-GP-no_comma-good_enough;Yes;ArrowLeft;Yes;text;0;Yes
-"While 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"Milo 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"pushed, 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"decorator 
- Left = Yes, Right = No";text;ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"argued 
- Left = Yes, Right = No";text;disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"about 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"paint 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"colour 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"in 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"living 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"room. 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-Was the decorator pushed?;text;Question-GP-comma-factual;No;ArrowRight;No;text;1;No
-"After 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"her 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"boyfriend 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"left, 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"Jane 
- Left = Yes, Right = No";text;ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"yelled 
- Left = Yes, Right = No";text;disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"swear 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"words 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"after 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"him. 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-Did her boyfriend leave Jane?;text;Question-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"After 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"fight 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"while 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"Kate 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"posed 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"Megan 
- Left = Yes, Right = No";text;ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"amassed 
- Left = Yes, Right = No";text;disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"some 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"reporters. 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-Was Megan posed by Kate?;text;Question-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"While 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"Dale 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"rushed 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"Alec 
- Left = Yes, Right = No";text;ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"inspected 
- Left = Yes, Right = No";text;disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"some 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"shirts 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"at 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"department 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"store. 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
+While;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+Milo;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+pushed,;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+decorator;text;ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+argued;text;disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+about;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+paint;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+colour;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+in;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+living;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+room.;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+Was the decorator pushed?;text;Question-GP-comma-factual;No;ArrowRight;No;text;2;No
+After;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+her;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+boyfriend;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+left,;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+Jane;text;ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+yelled;text;disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+swear;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+words;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+after;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+him.;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+Did her boyfriend leave Jane?;text;Question-GP-comma-good_enough;No;ArrowRight;No;text;2;No
+After;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+the;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+fight;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+while;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+Kate;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+posed;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+Megan;text;ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+amassed;text;disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+some;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+reporters.;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+Was Megan posed by Kate?;text;Question-GP-no_comma-good_enough;No;ArrowRight;No;text;2;No
+While;text;pre_ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+Dale;text;pre_ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+rushed;text;pre_ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+Alec;text;ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+inspected;text;disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+some;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+shirts;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+at;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+department;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+store.;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
 Was Dale rushing?;text;Question-GP-no_comma-factual;Yes;ArrowLeft;Yes;text;0;Yes
-"When 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"Teri 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"stopped, 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"Harry 
- Left = Yes, Right = No";text;ambiguity-GP-comma-factual;No;ArrowRight;No;text;1;No
-"donated 
- Left = Yes, Right = No";text;disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"a 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"pound 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"to 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"charity 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"outside 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-"supermarket. 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-factual;No;ArrowRight;No;text;1;No
-Was Harry stopped?;text;Question-GP-comma-factual;No;ArrowRight;No;text;1;No
-"When 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"Bill 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"asked 
- Left = Yes, Right = No";text;pre_ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"Lindsay 
- Left = Yes, Right = No";text;ambiguity-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"audited 
- Left = Yes, Right = No";text;disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"company's 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"books 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"to 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"confirm 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"they 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"were 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"right. 
- Left = Yes, Right = No";text;post_disambiguation-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-Was Lindsay asked something?;text;Question-GP-comma-good_enough;No;ArrowRight;No;text;1;No
-"Once 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"Will 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"tired 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"his 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"opponent 
- Left = Yes, Right = No";text;ambiguity-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"grasped 
- Left = Yes, Right = No";text;disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"for 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"his 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"right 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"leg 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"and 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"pinned 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
-"him. 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-good_enough;No;ArrowRight;No;text;1;No
+When;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+Teri;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+stopped,;text;pre_ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+Harry;text;ambiguity-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+donated;text;disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+a;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+pound;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+to;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+charity;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+outside;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+supermarket.;text;post_disambiguation-GP-comma-factual;Continue;Space;Continue;text;1;Continue
+Was Harry stopped?;text;Question-GP-comma-factual;No;ArrowRight;No;text;2;No
+When;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+Bill;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+asked;text;pre_ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+Lindsay;text;ambiguity-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+audited;text;disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+the;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+company's;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+books;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+to;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+confirm;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+they;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+were;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+right.;text;post_disambiguation-GP-comma-good_enough;Continue;Space;Continue;text;1;Continue
+Was Lindsay asked something?;text;Question-GP-comma-good_enough;No;ArrowRight;No;text;2;No
+Once;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+Will;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+tired;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+his;text;pre_ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+opponent;text;ambiguity-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+grasped;text;disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+for;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+his;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+right;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+leg;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+and;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+pinned;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
+him.;text;post_disambiguation-GP-no_comma-good_enough;Continue;Space;Continue;text;1;Continue
 Did Will get tired?;text;Question-GP-no_comma-good_enough;Yes;ArrowLeft;Yes;text;0;Yes
-"While 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"Samantha 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"helped 
- Left = Yes, Right = No";text;pre_ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"Darren 
- Left = Yes, Right = No";text;ambiguity-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"dusted 
- Left = Yes, Right = No";text;disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"rooms 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"in 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"preparation 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"for 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"the 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
-"tour. 
- Left = Yes, Right = No";text;post_disambiguation-GP-no_comma-factual;No;ArrowRight;No;text;1;No
+While;text;pre_ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+Samantha;text;pre_ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+helped;text;pre_ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+Darren;text;ambiguity-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+dusted;text;disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+rooms;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+in;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+preparation;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+for;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+the;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
+tour.;text;post_disambiguation-GP-no_comma-factual;Continue;Space;Continue;text;1;Continue
 Did Darren dust?;text;Question-GP-no_comma-factual;Yes;ArrowLeft;Yes;text;0;Yes

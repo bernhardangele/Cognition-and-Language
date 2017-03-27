@@ -31,9 +31,9 @@ split_words <- function(df){
   
   words$correctResponse <- ifelse(sentence$correct == 1, "Yes", "No")
   
-  words[words$position != "Question",]$correctResponse <- "No" 
+  words[words$position != "Question",]$correctResponse <- "Continue" 
   
-  words[words$position != "Question",]$word <- paste(words[words$position != "Question",]$word, "\n Left = Yes, Right = No")
+  #words[words$position == "Question",]$word <- paste(words[words$position == "Question",]$word, "\\n Left = Yes, Right = No")
   
   cat(nrow(words)-1,"\n")
   
@@ -46,13 +46,13 @@ all_words <- ddply(.data = sent, .variables = .(trialnr), .fun = split_words)
 
 all_words$comma <- with(all_words, ifelse(comma == 1, "no_comma", "comma"))
 
-all_words$keyCode <- with(all_words, ifelse(position == "Question", ifelse(correctResponse == "Yes", "ArrowLeft", "ArrowRight"), "ArrowRight"))
+all_words$keyCode <- with(all_words, ifelse(position == "Question", ifelse(correctResponse == "Yes", "ArrowLeft", "ArrowRight"), "Space"))
 
 all_words$keyLabel <- all_words$correctResponse
 
 all_words$keyLabelType <- "text"
 
-all_words$keyIndex <- with(all_words, ifelse(position == "Question", ifelse(correctResponse == "Yes", 0, 1), 1))
+all_words$keyIndex <- with(all_words, ifelse(position == "Question", ifelse(correctResponse == "Yes", 0, 2), 1))
 
 all_words <- add_column(all_words, .before = 3, stimulusValueType = rep("text", nrow(all_words)))
 
