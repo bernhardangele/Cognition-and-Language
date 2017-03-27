@@ -53,6 +53,8 @@ colnames(all_words)[2] <- "stimulusValue"
 
 all_words <- subset(all_words, select = -c(trialnr, position, type, comma, question_type))
 
+all_words$keyLabel <- all_words$correctResponse
+
 all_words$response <- all_words$correctResponse
 
 #write_csv(all_words, "garden_path_words.csv")
