@@ -31,7 +31,7 @@ split_words <- function(df){
   
   words$correctResponse <- ifelse(sentence$correct == 1, "Yes", "No")
   
-  words[words$position != "Question",]$correctResponse <- "Continue" 
+  words[words$position != "Question",]$correctResponse <- "No" 
   
   cat(nrow(words)-1,"\n")
   
