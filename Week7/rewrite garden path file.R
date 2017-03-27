@@ -41,9 +41,9 @@ all_words <- ddply(.data = sent, .variables = .(trialnr), .fun = split_words)
 
 all_words$comma <- with(all_words, ifelse(comma == 1, "no_comma", "comma"))
 
-all_words$keyCode <- with(all_words, ifelse(position == "Question", ifelse(correctResponse == 1, "ArrowLeft", "ArrowRight"), "ArrowRight"))
+all_words$keyCode <- with(all_words, ifelse(position == "Question", ifelse(correctResponse == "Yes", "ArrowLeft", "ArrowRight"), "ArrowRight"))
 
-all_words <- add_column(all_words, .before = 3, stimulusValuetype = rep("text", nrow(all_words)))
+all_words <- add_column(all_words, .before = 3, stimulusValueType = rep("text", nrow(all_words)))
 
 all_words <- add_column(all_words, .after = 3, stimulusType = with(all_words, paste(position, type, comma, question_type, sep = "-")))
 
@@ -53,4 +53,6 @@ all_words <- subset(all_words, select = -c(trialnr, position, type, comma, quest
 
 all_words$response <- all_words$correctResponse
 
-write_delim(all_words, "garden_path_words.txt", delim = "\t")
+write_csv(all_words, "garden_path_words.txt")
+
+#write_delim(all_words, "garden_path_words.txt", delim = "\t")
