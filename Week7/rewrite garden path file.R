@@ -32,8 +32,11 @@ split_words <- function(df){
   words$correctResponse <- ifelse(sentence$correct == 1, "Yes", "No")
   
   words[words$position != "Question",]$correctResponse <- "Continue" 
-
+  
+  cat(nrow(words)-1,"\n")
+  
   words
+  
 }
 
 
@@ -44,6 +47,8 @@ all_words$comma <- with(all_words, ifelse(comma == 1, "no_comma", "comma"))
 all_words$keyCode <- with(all_words, ifelse(position == "Question", ifelse(correctResponse == "Yes", "ArrowLeft", "ArrowRight"), "ArrowRight"))
 
 all_words$keyLabel <- all_words$correctResponse
+
+all_words$keyLabelType <- "text"
 
 all_words$keyIndex <- with(all_words, ifelse(position == "Question", ifelse(correctResponse == "Yes", 0, 1), 1))
 
