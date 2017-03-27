@@ -53,6 +53,6 @@ all_words <- subset(all_words, select = -c(trialnr, position, type, comma, quest
 
 all_words$response <- all_words$correctResponse
 
-write_csv(all_words, "garden_path_words.csv")
+#write_csv(all_words, "garden_path_words.csv")
 
-#write_delim(all_words, "garden_path_words.txt", delim = "\t")
+write_delim(all_words, "garden_path_words.csv", delim = ";")
