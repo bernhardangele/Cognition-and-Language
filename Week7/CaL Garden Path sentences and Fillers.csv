@@ -1,0 +1,33 @@
+Sentence type,pretarget,target,posttarget,question,correct,answer1,answer2
+GP,"While Robert filmed, Paul",chronicled,how much footage they had already had.,Was Robert filming Paul?,2,Yes,No
+GP,After her boyfriend left Jane,yelled,swear words after him.,Did her boyfriend leave Jane?,2,Yes,No
+GP,"Once Will tired, his opponent",grasped,for his right leg and pinned him.,Was Will's opponent tired?,2,Yes,No
+GP,When Lisa probed Mark,contended,that the heat affected his chemical reaction.,Did Lisa probe Mark?,2,Yes,No
+GP,"While the reporter wrote, the CEO",proffered,a new product for him to review.,Was the reporter writing to the CEO?,2,Yes,No
+GP,When the bank employee called the officer,pacified,the crowd outside.,Was the officer called by the bank employee?,2,Yes,No
+GP,"When the teacher lectured, the students",entrusted,notes to each other.,Did the teacher lecture the students?,2,Yes,No
+GP,When Bill asked Lindsay,audited,the company's books to confirm they were right.,Was Lindsay asked something?,2,Yes,No
+GP,"After the nurse bathed, Julie",mopped,the bathroom floor.,Did the nurse bathe herself?,1,Yes,No
+GP,While the truck drove past Fred,stared,at the coach's car.,Was Fred passed by the truck?,2,Yes,No
+GP,"While the penguins raced, the zookeeper",tidied,up the messy enclosure.,Did the penguins race the zookeeper?,2,Yes,No
+GP,"At the dinner,  while Alex served his guest",disclosed,that she was pregnant.,Did the guest announce something?,2,Yes,No
+GP,"After the dance,  when Renee leaned over Allen",butted,in line for the bathroom.,Did Renee lean over Allen?,2,Yes,No
+GP,After the roommate prepared Kevin,rapped,his wine glass with his knife.,Was the roommate preparing himself?,1,Yes,No
+GP,"After the fight, while Kate posed Megan",amassed,some reporters.,Was Megan posed by Kate?,2,Yes,No
+GP,While Ruby drove Clay,scoured,the passing landscape for a McDonald's.,Was Clay driven by Ruby?,2,Yes,No
+GP,While Samantha helped Darren,dusted,the rooms in preparation for the tour.,Was Samantha helped by Darren?,2,Yes,No
+GP,While the physicist taught Kirk,squinted,at the equations on the blackboard.,Was Kirk taught by the physicist?,2,Yes,No
+GP,While Dale rushed Alec,inspected,some shirts at the department store.,Was Alec rushed?,2,Yes,No
+GP,While the woman raced Kari,strode,ahead in the last lap around the track.,Was Kari raced?,2,Yes,No
+GP,When Curt asked Lacy,budgeted,extra blankets for the bed on the porch.,Was Lacy asked something?,2,Yes,No
+GP,When Teri stopped Harry,donated,a pound to the charity outside the supermarket.,Was Harry stopped?,2,Yes,No
+GP,While Bert wrote Troy,recounted,his trip to Italy over the summer.,Did someone write to Troy?,2,Yes,No
+GP,While Milo pushed the decorator,argued,about the paint colour in the living room.,Was the decorator pushed?,2,Yes,No
+GP,Once the nurse rang the doctor,ambled,over to the operating room.,Was the doctor called?,2,Yes,No
+GP,After the customer paid the cashier,intimated,that the store was overpriced.,Was the cashier paid?,2,Yes,No
+GP,Once the security guard checked the student,hoisted,the cooler on his back.,Was the student checked?,2,Yes,No
+GP,After the manager interrupted the engineer,wailed,that he never had enough time.,Was the engineer interrupted?,2,Yes,No
+GP,Before the boy visited the girl,tweezed,her eyebrows and put on make-up.,Was the girl visited?,2,Yes,No
+GP,While the child observed the artist,smeared,the paper with paint,Was the artist observed?,2,Yes,No
+GP,As the crowd applauded the actress,twirled,her hair around her finger.,Was the applause for the actress?,2,Yes,No
+GP,When the fighting finished the rebels,waylaid,the travellers on the dusty road.,Were the rebels finished?,2,Yes,No

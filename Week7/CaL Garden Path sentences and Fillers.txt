@@ -1,0 +1,33 @@
+Sentence type	pretarget	target	posttarget	question	correct	answer1	answer2	comma	question_type
+GP	While Robert filmed Paul	chronicled	how much footage they had already had.	Was Robert filming Paul?	2	Yes	No	1	good_enough
+GP	"After her boyfriend left, Jane"	yelled	swear words after him.	Did her boyfriend leave Jane?	2	Yes	No	2	good_enough
+GP	Once Will tired his opponent	grasped	for his right leg and pinned him.	Did Will get tired?	1	Yes	No	1	good_enough
+GP	"When Lisa probed, Mark"	contended	that the heat affected his chemical reaction.	Did Lisa probe Mark?	2	Yes	No	2	good_enough
+GP	While the reporter wrote the CEO	proffered	a new product for him to review.	Was the reporter writing to the CEO?	2	Yes	No	1	good_enough
+GP	"When the bank employee called, the officer"	pacified	the crowd outside.	Was the officer called by the bank employee?	2	Yes	No	2	good_enough
+GP	When the teacher lectured the students	entrusted	notes to each other.	Did the teacher lecture the students?	2	Yes	No	1	good_enough
+GP	When Bill asked Lindsay	audited	the company's books to confirm they were right.	Was Lindsay asked something?	2	Yes	No	2	good_enough
+GP	After the nurse bathed Julie	mopped	the bathroom floor.	Did the nurse bathe herself?	1	Yes	No	1	good_enough
+GP	"While the truck drove past, Fred"	stared	at the coach's car.	Was Fred passed by the truck?	2	Yes	No	2	good_enough
+GP	While the penguins raced the zookeeper	tidied	up the messy enclosure.	Did the penguins race the zookeeper?	2	Yes	No	1	good_enough
+GP	"At the dinner, while Alex served, his guest"	disclosed	that she was pregnant.	Did the guest announce something?	2	Yes	No	2	good_enough
+GP	"After the dance, when Renee leaned over Allen"	butted	in line for the bathroom.	Did Renee lean over Allen?	2	Yes	No	1	good_enough
+GP	"After the roommate prepared, Kevin"	rapped	his wine glass with his knife.	Was the roommate preparing himself?	1	Yes	No	2	good_enough
+GP	After the fight while Kate posed Megan	amassed	some reporters.	Was Megan posed by Kate?	2	Yes	No	1	good_enough
+GP	"While Ruby drove, Clay"	scoured	the passing landscape for a McDonald's.	Was Clay driven by Ruby?	2	Yes	No	2	good_enough
+GP	While Samantha helped Darren	dusted	the rooms in preparation for the tour.	Did Darren dust?	1	Yes	No	1	factual
+GP	"While the physicist taught, Kirk"	squinted	at the equations on the blackboard.	Was the physicist teaching?	1	Yes	No	2	factual
+GP	While Dale rushed Alec	inspected	some shirts at the department store.	Was Dale rushing?	1	Yes	No	1	factual
+GP	"While the woman raced, Kari"	strode	ahead in the last lap around the track.	Was Kari ahead in the last lap?	1	Yes	No	2	factual
+GP	When Curt asked Lacy	budgeted	extra blankets for the bed on the porch.	Was Lacy budgeting?	1	Yes	No	1	factual
+GP	"When Teri stopped, Harry"	donated	a pound to the charity outside the supermarket.	Was Harry stopped?	2	Yes	No	2	factual
+GP	While Bert wrote Troy	recounted	his trip to Italy over the summer.	Was Bert writing to someone?	1	Yes	No	1	factual
+GP	"While Milo pushed, the decorator"	argued	about the paint colour in the living room.	Was the decorator pushed?	2	Yes	No	2	factual
+GP	Once the nurse rang the doctor	ambled	over to the operating room.	Did the doctor amble?	1	Yes	No	1	factual
+GP	"After the customer paid, the cashier"	intimated	that the store was overpriced.	Was  the store cheap?	2	Yes	No	2	factual
+GP	Once the security guard checked the student	hoisted	the cooler on his back.	Did the student hoist a grill?	2	Yes	No	1	factual
+GP	"After the manager interrupted, the engineer"	wailed	that he never had enough time.	Did the manager interrupt?	1	Yes	No	2	factual
+GP	Before the boy visited the girl	tweezed	her eyebrows and put on make-up.	Did the girl paint her nails?	2	Yes	No	1	factual
+GP	"While the child observed, the artist"	smeared	the paper with paint.	Was the child observing?	1	Yes	No	2	factual
+GP	As the crowd applauded the actress	twirled	her hair around her finger.	Did the actress play with her hair?	1	Yes	No	1	factual
+GP	"When the fighting finished, the rebels"	waylaid	the travellers on the dusty road.	Were the rebels waylaid?	2	Yes	No	2	factual
