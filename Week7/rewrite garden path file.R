@@ -4,7 +4,7 @@ library(plyr)
 library(readr)
 library(tibble)
 
-sent <- read_delim("CaL Garden Path sentences and Fillers.txt", "\t")
+sent <- read_delim("CaL Garden Path sentences and Fillers_no_commas.txt", "\t")
 
 set.seed("27032017")
 
